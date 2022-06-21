@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...  typescript, remixjs, blockchain, solidity, and full stack web3 dev with javascript @freeCodeCamp
 - 💞️ I’m looking to collaborate on ... web3, nft, open source projects
 - 📫 How to reach me ... &nbsp; [![Twitter Badge](https://img.shields.io/badge/-bricerader-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/bricerader)
-- 
 
 <!---
 bricerader/bricerader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
